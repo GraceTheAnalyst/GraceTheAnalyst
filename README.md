@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm an entry-level data analyst who enjoys transforming messy datasets into clear stories and insights people can act on.
 
-I focus on cleaning messy data until it's reliable, then using SQL and Power BI to turn it into dashboards and reports that teams can actually use.
+I focus on cleaning data until it's reliable, then using SQL and Power BI to turn it into dashboards and reports that teams can actually use.
 
 Outside of data, I make soap by hand and create art, crafts that have taught me patience and precision. I love the "aha" moment when a dataset finally gives up its answer.
 
