@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm an entry-level data analyst who enjoys transforming messy datasets into clear stories and insights people can act on.
+I'm a data analyst who enjoys transforming messy datasets into clear stories and insights people can act on.
 
 I focus on cleaning data until it's reliable, then using SQL and Power BI to turn it into dashboards and reports that teams can actually use.
 
