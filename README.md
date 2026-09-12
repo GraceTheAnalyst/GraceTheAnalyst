@@ -19,8 +19,6 @@ I focus on cleaning data until it's reliable, then using SQL and Power BI to tur
 
 Outside of data, I make soap by hand and create art, crafts that have taught me patience and precision. I love the "aha" moment when a dataset finally gives up its answer.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://GraceTheAnalyst.github.io/)
 
 ## 🗃️Projects
 
